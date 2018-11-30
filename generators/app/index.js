@@ -25,7 +25,7 @@ class NgxCompodocGenerator extends Generator {
 
   end() {
     if (this.props.addCompodoc && !this.updating) {
-      this.log(`- $ ${chalk.green(`${this.packageManager} run npm compodoc`)}: generate documentation`);
+      this.log(`- $ ${chalk.green(`${this.packageManager} run compodoc`)}: generate documentation`);
     }
   }
 }

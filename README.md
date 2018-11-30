@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/generator-ngx-compodoc.svg)](https://badge.fury.io/js/generator-ngx-compodoc.svg)
+
 # :rocket: ngxCompodoc
 
 > add Compodoc to the project

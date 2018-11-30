@@ -1,6 +1,6 @@
 {
   "name": "generator-ngx-compodoc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "add Compodoc to the project",
   "main": "./generators/app/index.js",
   "scripts": {
