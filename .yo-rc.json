@@ -1,0 +1,16 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.3.0",
+    "props": {
+      "appName": "ngxCompodoc",
+      "description": "add Compodoc to the project",
+      "author": "stephane.balasse@qiis.fr",
+      "type": "client",
+      "advanced": true,
+      "projectName": "ngx-compodoc",
+      "packageManager": "npm",
+      "className": "NgxCompodoc",
+      "isAddon": true
+    }
+  }
+}

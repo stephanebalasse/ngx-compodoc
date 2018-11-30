@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "compodoc": "compodoc -p src/tsconfig.app.json"
+  },
+  "devDependencies": {
+    "@compodoc/compodoc": "^1.1.7"
+  }
+}
