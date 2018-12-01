@@ -1,8 +1,8 @@
 [![npm version](https://badge.fury.io/js/generator-ngx-compodoc.svg)](https://badge.fury.io/js/generator-ngx-compodoc.svg)
-
+[![cypress version](https://img.shields.io/badge/Compodoc_Version-1.1.7-green.svg)](https://img.shields.io/badge/Compodoc_Version-1.1.7-green.svg) 
 # :rocket: ngxCompodoc
 
-> add Compodoc to the project
+> add Compodoc to the ngX-Rocket apps
 
 This add-on was generated with [ngX-Rocket](https://github.com/ngx-rocket/generator-ngx-rocket/) version 5.3.0
 
