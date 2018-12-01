@@ -1,6 +1,6 @@
 {
   "name": "generator-ngx-compodoc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "add Compodoc to the project",
   "main": "./generators/app/index.js",
   "scripts": {
@@ -9,8 +9,14 @@
   },
   "keywords": [
     "yeoman-generator",
-    "ngx-rocket-addon"
+    "ngx-rocket-addon",
+    "angular",
+    "documentation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephanebalasse/ngx-compodoc.git"
+  },
   "author": "stephane.balasse@gmail.com",
   "license": "MIT",
   "dependencies": {
